@@ -34,6 +34,7 @@ form{
 .links{
     text-decoration: none;
     font-size: small;
+    font-weight: bold;
     color:  black;
 }
 b{

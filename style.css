@@ -6,6 +6,19 @@
    left:0px;
    right:0px;
 }
+hr{
+    border-style: dotted;
+}
+.clg{
+    text-decoration: none;
+    color: rgb(164, 139, 235);
+}
+.clg:hover{
+    color: rgb(94, 11, 172);
+}
+img{
+    border-radius: 50%;
+}
 body{
     background-color: rgb(255, 222, 89);
 }

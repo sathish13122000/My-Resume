@@ -20,10 +20,10 @@ img{
     border-radius: 50%;
 }
 body{
-    background-color: rgb(255, 222, 89);
+    background-color: snow;
 }
 form{
-    background-color: beige;
+    background-color: rgb(200, 255, 239);
     margin-inline-start: 3cm;
     margin-inline-end: 3cm;
     border-color: brown;
